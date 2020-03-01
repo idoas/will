@@ -32,7 +32,7 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: 文章
     url: /series
   - title: Tags
     url: /tags
